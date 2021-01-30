@@ -1,13 +1,1 @@
-
-
-### Here is What I'm Working On:👋
-
-- 🔭 I’m currently working on ReactJs
-- 🌱 I’m currently learning NodeJs,Mobile Machine Learning,PWA
-- 👯 I’m looking to collaborate on ReactJs,CSS,JS
-- 🤔 I’m looking for help with CSS
-- 💬 Ask me about 
-- 📫 How to reach me: kiranmvs07@gmail.com
-- 😄 Pronouns: Mvs
-- ⚡ Fun fact: Not using Semicolons in JS.😄 
---> Trying to Hit 60FPS (I mean u can understand, if you're a....
+![Metrics](https://metrics.lecoq.io/mvskiren?template=classic&followup=1&isocalendar=1&languages=1&pagespeed=1&posts=1&pagespeed.detailed=false&pagespeed.screenshot=false&posts.limit=4&posts.source=dev.to&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta&config.animated=true)
