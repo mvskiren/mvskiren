@@ -43,21 +43,15 @@ JSON         1 hr 1 min      ███▒░░░░░░░░░░░░░
 Other        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
 ```
 
-<!--END_SECTION:waka-->
 
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mvskiren&show_icons=true&theme=gotham" alt="mvskiran" />
+
+  
+<!--  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvskiren&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a> -->
 
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
