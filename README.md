@@ -10,7 +10,7 @@
 
 <br />
 
-hi, i'm [Mvs Kiran](https://mvskiran.dev/), a passionate self-taught front end web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Mvs Kiran](https://mvskiran.dev/), a passionate self-taught front end web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. Author of www.reactchallenges.live
 
