@@ -19,6 +19,7 @@ i am also an open-source enthusiast and maintainer. Author of www.reactchallenge
   
 - 💼 any freelance work? do reach, [email](mailto:kiranmvs07@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
+- Currently exploring NextJs, Web3 (Blockchain, ethereum and smart contracts)
 
 **languages and tools:**  
 
