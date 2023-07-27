@@ -1,8 +1,13 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### <samp>&gt; Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://mvskiran.dev" target="_blank">Mvs Kiran</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+
+
+Hi, I'm [Mvs Kiran](https://mvskiran.dev/), a passionate self-taught front-end web developer and a freelance software engineer from India. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+I am also an open-source enthusiast and maintainer. Author of www.reactchallenges.live
+
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
 <br />
-
-<!--   <img align="right" alt="GIF" src="https://github.com/mvskiren/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
 **languages and tools:**  
 
@@ -14,8 +19,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-### <samp>&gt; Hi there, I'm <a href="https://mvskiran.dev" target="_blank">Mvs Kiran</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mvskiran)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://mvskiran.dev)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mvskiren)
@@ -23,16 +26,6 @@
 - 💼 any freelance work? do reach, [email](mailto:kiranmvs07@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;
 - Currently exploring NextJs, PWA, Web3 (Blockchain, Ethereum and smart contracts)
-
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
-
-
-Hi, I'm [Mvs Kiran](https://mvskiran.dev/), a passionate self-taught front-end web developer and a freelance software engineer from India. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-I am also an open-source enthusiast and maintainer. Author of www.reactchallenges.live
-
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
-  
 
 **Talking about Personal Stuff:**
 
