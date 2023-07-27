@@ -31,25 +31,49 @@ i am also an open-source enthusiast and maintainer. Author of www.reactchallenge
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
+### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Gapur Kassym</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gapur-kassym)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/GKassym)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gkassym/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
+
+I am a frontend-stack software engineer and writer. I love programming, writing and traveling.
+
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+  
+
+**Talking about Personal Stuffs:**
+
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://medium.com/@mvskiran);
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: kiranmvs07@gmail.com;
+
+</br>
+
+📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
-```text
-TypeScript   3 hrs 36 mins   ████████████░░░░░░░░░░░░░   47.76 %
-JavaScript   2 hrs 35 mins   ████████▓░░░░░░░░░░░░░░░░   34.26 %
-JSON         1 hr 1 min      ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
-Other        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+```txt
+No activity tracked
 ```
 
+<!--END_SECTION:waka-->
 
 
+📈 **My GitHub Stats:**
 
-📈 my github stats
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mvskiren&show_icons=true&theme=gotham" alt="mvskiran" />
 
-  
-<!--  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvskiren&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a> -->
 
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
