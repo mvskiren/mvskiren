@@ -1,7 +1,7 @@
 ### <samp>&gt; Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://mvskiran.dev" target="_blank">Mvs Kiran</a></samp>
 
 
-Hi, I'm [Mvs Kiran](https://mvskiran.dev/), a passionate self-taught front-end web developer and a freelance software engineer from India. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Passionate self-taught front-end web developer and a freelance software engineer from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. Author of www.reactchallenges.live
 
@@ -9,7 +9,7 @@ I am also an open-source enthusiast and maintainer. Author of www.reactchallenge
 
 <br />
 
-**languages and tools:**  
+**Languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -25,7 +25,9 @@ I am also an open-source enthusiast and maintainer. Author of www.reactchallenge
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@mvskiran)
 - 💼 any freelance work? do reach, [email](mailto:kiranmvs07@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;
-- Currently exploring NextJs, PWA, Web3 (Blockchain, Ethereum and smart contracts)
+- Currently exploring NextJs, PWA, and Web3 (Blockchain, Ethereum and smart contracts)
+- Curious Developer always tweaks element inspector!
+- Things aren’t always #000000 and #FFFFF!
 
 **Talking about Personal Stuff:**
 
@@ -49,14 +51,10 @@ No activity tracked
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mvskiren&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvskiiren&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-
-
 
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
   
-Curious Developer always tweak element inspector!
-Things aren’t always #000000 and #FFFFF!
