@@ -1,25 +1,8 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/mvskiren">
-  <img align="left" alt="Mvs kiran | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/mvskiran/">
-  <img align="left" alt="Mvskiran's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-
 <br />
 
-Hi, I'm [Mvs Kiran](https://mvskiran.dev/), a passionate self-taught front end web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. Author of www.reactchallenges.live
-
-
 <!--   <img align="right" alt="GIF" src="https://github.com/mvskiren/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
-  
-- 💼 any freelance work? do reach, [email](mailto:kiranmvs07@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-- Currently exploring NextJs, Web3 (Blockchain, ethereum and smart contracts)
 
 **languages and tools:**  
 
@@ -37,10 +20,16 @@ i am also an open-source enthusiast and maintainer. Author of www.reactchallenge
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://mvskiran.dev)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mvskiren)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@mvskiran)
+- 💼 any freelance work? do reach, [email](mailto:kiranmvs07@gmail.com) :)
+- 💬 ask me about anything, I am happy to help;
+- Currently exploring NextJs, PWA, Web3 (Blockchain, Ethereum and smart contracts)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
-I am a front-end software engineer and writer. I love programming, writing, and traveling.
+
+Hi, I'm [Mvs Kiran](https://mvskiran.dev/), a passionate self-taught front-end web developer and a freelance software engineer from India. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+I am also an open-source enthusiast and maintainer. Author of www.reactchallenges.live
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
   
